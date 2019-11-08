@@ -14,5 +14,26 @@ All four methods are fully explicit and thus, lend themselves to parallel implem
 This website shows the implementation (bitstreams) of the ODE Solvers targeting the Alpha Data KU3 FPGAs. 
 If you are interested on the source code, please contact us info@vineyardh2020.eu
 
+You can find more details on the following paper:
+
+@inproceedings{Stamoulias:2017:HHA:3120895.3120919,
+ author = {Stamoulias, Ioannis and M\"{o}ller, Matthias and Miedema, Rene and Strydis, Christos and Kachris, Christoforos and Soudris, Dimitrios},
+ title = {High-Performance Hardware Accelerators for Solving Ordinary Differential Equations},
+ booktitle = {Proceedings of the 8th International Symposium on Highly Efficient Accelerators and Reconfigurable Technologies},
+ series = {HEART2017},
+ year = {2017},
+ isbn = {978-1-4503-5316-8},
+ location = {Bochum, Germany},
+ pages = {24:1--24:6},
+ articleno = {24},
+ numpages = {6},
+ url = {http://doi.acm.org/10.1145/3120895.3120919},
+ doi = {10.1145/3120895.3120919},
+ acmid = {3120919},
+ publisher = {ACM},
+ address = {New York, NY, USA},
+} 
+
+
 For more information: www.vineyardh2020.eu
 
